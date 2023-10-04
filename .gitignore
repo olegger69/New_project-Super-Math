@@ -1,6 +1,8 @@
 /.vscode
-# src/modules/__pycache__/
+src/modules/__pycache__/
 src/modules/tests/*.txt
 !src/modules/tests/test3.txt
-# src/modules/tests/__pycache__/
-**/__pycache__/
+src/modules/tests/__pycache__/
+# **/__pycache__/
+!src/modules/tests/test1.txt
+
